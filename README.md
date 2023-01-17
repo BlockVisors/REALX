@@ -1,26 +1,26 @@
-# REI
+# REALX
 
-Invest and Lend through REI NFT's without any friction.
-
+Invest and Lend through REALX NFT's without any friction.
+<!-- 
 <p align="left">
   <img width="70%" src="https://i.ibb.co/1ZK7Vmr/rei-logo-16-9-1.jpg">
-</p>
+</p> -->
 
 # Working
 
 ### For Loanee
 
-## 1. Creating Application for REI NFT
+## 1. Creating Application for REALX NFT
 
-First user need to fill form of REI NFT creation if he want to borrow loan as collateral. Then he need to wait some time untill apporover approves his NFT.
+First user need to fill form of REALX NFT creation if he want to borrow loan as collateral. Then he need to wait some time until apporover approves his NFT.
 
 ## 2. Fractionalising NFT
 
-He need to Fractionalise his NFT into smaller parts to take loan from many investers.
+He need to Fractionalize his NFT into smaller parts to take loan from many investers.
 
 ## 3. Applying for loan
 
-After fractionlising his NFT loanee need to apply for loan on the basis of his REI NFT to take loan.
+After fractionlising his NFT loanee need to apply for loan on the basis of his REALX NFT to take loan.
 
 ## 4. Funded state
 
@@ -58,11 +58,11 @@ Since the data on the blockchain is decentralized and distributed, it is accessi
 
 ## 1. Decentralized Storage 🕵️‍♂️
 
-We had a big problem of storing REI NFT images and metadata becouse of decentralized Dapp we can't keep detail on server.
+We had a big problem of storing REALX NFT images and metadata becouse of decentralized Dapp we can't keep detail on server.
 
 ### Solution :-
 
-We used IPFS to store REI NFT Images and metadata which will be decentralized and we web3.storage to upload images and metadata from UI.
+We used IPFS to store REALX NFT Images and metadata which will be decentralized and we web3.storage to upload images and metadata from UI.
 
 ## 2. Indexing onchain data
 
